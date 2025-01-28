@@ -1,8 +1,0 @@
-artifact_location: mlflow-artifacts:/878199201264879360
-creation_time: 1737657671380
-experiment_id: '878199201264879360'
-last_update_time: 1737661070052
-lifecycle_stage: deleted
-name: new-one
-tags:
-  mlflow.note.content: New exp

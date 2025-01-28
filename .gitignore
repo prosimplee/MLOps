@@ -1,3 +1,5 @@
 .venv
 .idea/
 .ipynb_checkpoints
+/ml_algorithms_2
+/02-experiment-tracking/models
